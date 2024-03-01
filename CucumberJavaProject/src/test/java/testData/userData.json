@@ -1,0 +1,28 @@
+[
+{
+  
+  "Firstname" : "josh",
+  "Lastname" :"Kumar",
+  "email" : "me@gmail.com",
+  "phone" : "2982345",
+  "address": "west georgia USA"
+  
+},
+{
+  "Firstname" : "joshua",
+  "Lastname" :"Kumari",
+  "email" : "mei@gmail.com",
+  "phone" : "24562345",
+  "address": "north alabama USA"
+},
+{
+  "Firstname" : "gargi",
+  "Lastname" :"Koparkar",
+  "email" : "you@gmail.com",
+  "phone" : "223462345",
+  "address": "Wagholi Pune india"
+  
+  
+   
+}
+]

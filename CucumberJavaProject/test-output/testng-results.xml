@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-01T10:57:59 IST" name="Default suite" finished-at="2024-03-01T10:57:59 IST" duration-ms="192">
+    <groups>
+      <group name="Smoke">
+        <method signature="para2.WebLoginPersonalLoan()[pri:0, instance:Parallelism.para2@1ca3b418]" name="WebLoginPersonalLoan" class="Parallelism.para2"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2024-03-01T10:57:59 IST" name="Default test" finished-at="2024-03-01T10:57:59 IST" duration-ms="192">
+      <class name="Parallelism.para2">
+        <test-method signature="APILoginPersonalLoan()[pri:0, instance:Parallelism.para2@1ca3b418]" started-at="2024-03-01T10:57:59 IST" name="APILoginPersonalLoan" finished-at="2024-03-01T10:57:59 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APILoginPersonalLoan -->
+        <test-method signature="MobileLoginPersonalLoan()[pri:0, instance:Parallelism.para2@1ca3b418]" started-at="2024-03-01T10:57:59 IST" name="MobileLoginPersonalLoan" finished-at="2024-03-01T10:57:59 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginPersonalLoan -->
+        <test-method signature="WebLoginPersonalLoan()[pri:0, instance:Parallelism.para2@1ca3b418]" started-at="2024-03-01T10:57:59 IST" name="WebLoginPersonalLoan" finished-at="2024-03-01T10:57:59 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebLoginPersonalLoan -->
+      </class> <!-- Parallelism.para2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
